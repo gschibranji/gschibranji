@@ -1,7 +1,10 @@
-<!--### Hi there 👋
+### Hi there 👋
 
 My name ist Georg Schibranji, I am a teacher at the College for Electronic Engineering and Technical Informatics (HTL für Elektronik und technische Informatik) in Mödling / Austria.
--->
+
+Currently I am working on building different deployments for my lab and learning ansible in the process.
+
+
 <!--
 **gschibranji/gschibranji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
