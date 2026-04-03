@@ -2,7 +2,7 @@
 
 My name ist Georg Schibranji, I am a teacher at the College for Electronic Engineering and Technical Informatics (HTL für Elektronik und technische Informatik) in Mödling / Austria.
 
-Currently I am working on building different deployments for my lab and learning ansible in the process.
+Currently I am working on building different deployments for my lab and learning linux, ansible, obsidian, etc. in the process.
 
 
 <!--
